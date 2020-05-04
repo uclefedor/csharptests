@@ -1,0 +1,23 @@
+  using System;
+  public class Sum
+  {
+     public int GetSum(int a, int b)
+     {
+       int sum = 0;
+       if (b>a)
+       {
+         for (int x = a; x <= b; x++)
+         {
+           sum +=x;
+         } 
+       }
+       else
+       {
+         for (int x = b; x <= a; x++)
+         {
+           sum +=x;
+         } 
+       }
+       return sum;
+     }
+  }

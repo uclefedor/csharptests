@@ -1,0 +1,22 @@
+using System;
+
+public class Kata 
+{
+  public static int GetNumber(string str) 
+  {
+    string fivesymb = str.Substring(0, 5);
+    int max = int.Parse(fivesymb);
+    string temp = "";
+    int result = 0;
+    for (int i = 0; i<str.Length-4; i++)
+    {
+      temp = str.Substring(i, 5);
+      result = int.Parse(temp);     
+      if (result > max)
+      {
+        max = result;
+      }
+    }
+    return max;
+  }
+}

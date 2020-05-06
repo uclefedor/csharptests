@@ -26,7 +26,6 @@ public class Kata
     else
       {
        size = s.Length/partLength; 
-       Console.WriteLine(size);
       }
     if (s.Length<=partLength)
       {

@@ -1,6 +1,6 @@
 using System;
 
-class Kata
+class Kata 
 {
     public static int StrCount(string str, string letter)
     {

@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-public class Person
+public class Person 
 {
   public string Name { get; set; }
   public bool WasNice { get; set; }

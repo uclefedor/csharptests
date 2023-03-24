@@ -1,5 +1,5 @@
   using System;
-  public class Sum
+  public class Sum 
   {
      public int GetSum(int a, int b)
      {

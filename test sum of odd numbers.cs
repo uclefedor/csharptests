@@ -1,6 +1,6 @@
 using System;
 using NUnit.Framework;
-[TestFixture]
+[TestFixture] 
 public class Test
 {
 [Test]

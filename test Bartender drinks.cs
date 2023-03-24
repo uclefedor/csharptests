@@ -3,7 +3,7 @@ namespace Solution {
   using System;
 
   [TestFixture]
-  public class SolutionTest
+  public class SolutionTest 
   {
     [Test]
     public void SampleTest()

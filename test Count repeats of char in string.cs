@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-[TestFixture]
+[TestFixture] 
 class Tets
 {
     [TestCase("Hello", "o", 1)]

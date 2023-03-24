@@ -1,6 +1,6 @@
 using System;
 
-public class Kata
+public class Kata 
 {
   public static string SplitInParts(string s, int partLength)
   {  

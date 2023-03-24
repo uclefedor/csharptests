@@ -1,6 +1,6 @@
 using System;
 
-public class Kata
+public class Kata 
 {
   public static double[] Multiples(int m, double n)
   {

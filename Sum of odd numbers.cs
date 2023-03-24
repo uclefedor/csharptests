@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-public static class Kata
+public static class Kata 
 {
   //calculate sum of odd numbers in raw: rowSumOddNumbers(2) => 8;
     

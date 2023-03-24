@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-public static class Kata
+public static class Kata 
 {
   /*returns not common chars in 2 strings:
   Solve("xyab", "xzca") => "ybzc"*/
